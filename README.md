@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://github.com/RUDE-labs/dGuild/blob/dev/images/dGuild.png" />
+</p>
+
+# [Website](https://dguild.co)
+# [Twitter](https://twitter.com/dGuildINC)
+
 # dGuild: Curation and Artist Fundraising
 
 Content creators are underpaid. Fans don't have a meaningful and mutually beneficial way to directly support their favorite artists. dGuild allows content creators to further monetize content in a novel way. Their profits scale alongside the growth of their dedicated fanbase, and the fans receive to major forms of value:
