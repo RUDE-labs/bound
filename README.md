@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/RUDE-labs/dGuild/blob/dev/images/dGuild_twitter-cover-1.png" />
+  <img src="https://github.com/RUDE-labs/dGuild/blob/dev/images/dguild-logo.png" />
 </p>
 
 # [Website](https://dguild.co)
